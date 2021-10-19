@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaisalAhmed123
-- 👀 I’m interested in engineering and computer science
-- 🌱 I’m currently learning C++ and Arduino
+- 👀 I’m interested 3D printing and software development
+- 🌱 I’m currently learning C++ and Platform IO with STM32
 - 📫 How to reach me - buzzybee101@outlook.com
 
 <!---
